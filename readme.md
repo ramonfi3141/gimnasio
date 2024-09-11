@@ -15,8 +15,8 @@ como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir
 
 # Diagramas y Diseños
 
-* [Diagramas de casos de uso](https://daringfireball.net) 
-* [Escenarios de casos de uso](https://daringfireball.net) 
+* [Diagramas de casos de uso](https://app.diagrams.net/#G1kuIj65a2RuUEaFyQAL-4PmCsMwrzq8H-#%7B%22pageId%22%3A%22Iv0qC2GTRy8RHhDNhKyT%22%7D) 
+* [Escenarios de casos de uso](https://docs.google.com/spreadsheets/d/192H9Yvpkwe_c7NiCZGR55iYPsYdWZoYAg1mwBSeL5Bk/edit?gid=356940991#gid=356940991) 
 
-* [Tarjetas CRC](https://daringfireball.net)
+* [Tarjetas CRC](https://docs.google.com/document/d/1fH79pLrgHchR8fPgSMccz_rspGL6NBvT56PQZwIKPzE/edit)
  

@@ -23,3 +23,6 @@ como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir
 + [Reentrega](https://docs.google.com/document/d/14MiL49Z0ZLd9j0WSlsAsss75ndZY8WiPw4AOMuvMdMc/edit )
  
 + [Diagrama de Clases v1](https://docs.google.com/document/d/1-RH6E0LbcjWQEpEaE-r0HnEL3woa_pj_aZgMEm5hMUw/edit)
++ [Diagrama de actividades](https://app.diagrams.net/#G15uMXl09iE1R4pxRDFL1XigwG48KfHjyT#%7B%22pageId%22%3A%2274e2e168-ea6b-b213-b513-2b3c1d86103e%22%7D)
+
++ [Diagrama de secuencia]()

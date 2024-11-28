@@ -26,7 +26,7 @@ como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir
 
 2 . AGILE 
 * [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1auk7-KZiNLy7jtgR65n8b-PqU09LWJnXkh7D0kfsT44/edit?gid=0#gid=0)
-* [MATRIZ CLAE](https://docs.google.com/document/d/1jNEY9QufH5SA0y_Z6Rt5msfg8SYK6Q6Jm6G4KvuV2ZI/edit?tab=t.0 ) 
+* [MATRIZ CLAE](https://app.luminpdf.com/es/viewer/6747f432a6c9ab15d0bb1521?credentials-id=02bac766-3fc7-4f50-af6f-7bb707d41eff ) 
 
 3 . ANEXOS
 + [Reentrega](https://docs.google.com/document/d/14MiL49Z0ZLd9j0WSlsAsss75ndZY8WiPw4AOMuvMdMc/edit )

@@ -19,6 +19,5 @@ como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir
     
 - 2 . [HERRAMIENTAS AGILE](herramientasAgile.md)
    
-
 - 3 . [ANEXOS](anexos.md)
    

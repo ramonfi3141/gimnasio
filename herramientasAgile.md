@@ -1,0 +1,2 @@
+* [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1auk7-KZiNLy7jtgR65n8b-PqU09LWJnXkh7D0kfsT44/edit?gid=0#gid=0)
+    * [Matriz CLAE](https://docs.google.com/spreadsheets/d/1IWOOaEQ8fqLkH96TVHYjazANzq6KdX0mlvY8NVwa1r4/edit) 

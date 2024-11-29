@@ -15,19 +15,10 @@ como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir
 
 # Diagramas y Diseños
 
-1 . UML
- * [Diagramas de casos de uso](https://app.diagrams.net/#G1jpYGHku8cDvuKoZC3D00haeEgWquWFYM#%7B%22pageId%22%3A%22Iv0qC2GTRy8RHhDNhKyT%22%7) 
-* [Escenarios de casos de uso](https://docs.google.com/spreadsheets/d/192H9Yvpkwe_c7NiCZGR55iYPsYdWZoYAg1mwBSeL5Bk/edit?gid=356940991#gid=356940991) 
-+ [Diagrama de clases](diagrama%20de%20clases%20gimnasio.png)
-    + [Diagrama de Clases v1](https://docs.google.com/document/d/1-RH6E0LbcjWQEpEaE-r0HnEL3woa_pj_aZgMEm5hMUw/edit)
-+ [Diagrama de actividades](https://app.diagrams.net/#G15uMXl09iE1R4pxRDFL1XigwG48KfHjyT#%7B%22pageId%22%3A%2274e2e168-ea6b-b213-b513-2b3c1d86103e%22%7D)
+- 1 . [UML](uml.md)
+    
+- 2 . [HERRAMIENTAS AGILE](herramientasAgile.md)
+   
 
-+ [Diagrama de secuencia](https://app.diagrams.net/#G1bVPaC2PGdDgl6PmfTb_1LsipznLofP0c#%7B%22pageId%22%3A%222YBvvXClWsGukQMizWep%22%7D)
-
-2 . HERRAMIENTAS AGILE 
-* [Tarjetas CRC](https://docs.google.com/spreadsheets/d/1auk7-KZiNLy7jtgR65n8b-PqU09LWJnXkh7D0kfsT44/edit?gid=0#gid=0)
-* [Matriz CLAE](https://docs.google.com/spreadsheets/d/1IWOOaEQ8fqLkH96TVHYjazANzq6KdX0mlvY8NVwa1r4/edit) 
-
-3 . ANEXOS
-+ [Reentrega](https://docs.google.com/document/d/14MiL49Z0ZLd9j0WSlsAsss75ndZY8WiPw4AOMuvMdMc/edit )
- 
+- 3 . [ANEXOS](anexos.md)
+   

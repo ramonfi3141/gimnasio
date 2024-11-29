@@ -1,4 +1,4 @@
-* [Diagramas de casos de uso](https://app.diagrams.net/#G1jpYGHku8cDvuKoZC3D00haeEgWquWFYM#%7B%22pageId%22%3A%22Iv0qC2GTRy8RHhDNhKyT%22%7) 
+* [Diagramas de casos de uso](re-entrega.gimnasion.drawio.pdf) 
 * [Escenarios de casos de uso](https://docs.google.com/spreadsheets/d/192H9Yvpkwe_c7NiCZGR55iYPsYdWZoYAg1mwBSeL5Bk/edit?gid=356940991#gid=356940991) 
 + [Diagrama de clases](Diagrama_de_clases.md)
     

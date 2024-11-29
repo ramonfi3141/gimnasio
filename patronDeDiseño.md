@@ -9,7 +9,8 @@ El gimnasio necesita una manera flexible de procesar pagos, ya que los socios pu
 
 ## Estructura de clases
 ---
-[estructura de clase gimnasio](diagrama%20de%20clases%20gimnasio.png)
+[estructura de clase gimnasio](Diagram%202024-11-29%2001-26-00.png)
 
 ## Ejemplo de codigo
 ---
+[codigo java strategy](strategy.java)

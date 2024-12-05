@@ -1,9 +1,9 @@
 ## Principio de Sustitución de Liskov (LSP)
 
-El gimnasio posee un sistema en el que se pueden realizar varias tarea que son importantes para la gestion del mismo.
-como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir tiempos de clases, verificar estados de cuentas de cada socio, consultar disponibilidad de cupos para las claes, establecer permisos de ingresos, registrar tiempos de uso de las maquinas para evaluar mantenimientos, entre muchas otras ventajas.
+Con el tiempo el gimnasio recurrioa  implementar nuevas formas de comunicarse cons sus socios, estos genero inconveneites ya que ahora se especificaban segun el medio de comunicacion  esto llevo a la repeticion de datos, entonces aplicar el principio liskov en que podemos reutilizar los datos alivio este problema, Esto significa que las subclases deben ser sustituibles por sus clases base sin problemas.
 
 ---
 ## Motivacion
+Para aplicar este principio, debemos asegurarnos de que nuestras subclases puedan reemplazar a sus clases base sin alterar el comportamiento esperado del sistema. Esto significa que las subclases deben cumplir con los contratos establecidos por las clases base.
 ## Estructura de Clases
 ## Ejemplo de Código

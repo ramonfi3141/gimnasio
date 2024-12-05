@@ -1,9 +1,10 @@
 ## Principio Abierto/Cerrado (OCP)
 
-El gimnasio posee un sistema en el que se pueden realizar varias tarea que son importantes para la gestion del mismo.
-como registrar nuevos socios, brindar membresias con diferentes tarifas, incluir tiempos de clases, verificar estados de cuentas de cada socio, consultar disponibilidad de cupos para las claes, establecer permisos de ingresos, registrar tiempos de uso de las maquinas para evaluar mantenimientos, entre muchas otras ventajas.
+Este principio de abierto para extension cerrado para modificacion, significa que deberíamos poder añadir nuevas funcionalidades extendiendo la clase, no modificando el código existente.
+El gimnasio con este sistema tiene la posibilidad de añadir funciones que con el correr del tiempo se requieran.
 
 ---
 ## Motivacion
+Se esta haciendo cada vez mas dificultoso generar cambios por evolucion sin que estos generen inconvenientes con la manipulacion de los datos, con este principio no se modifican datos bases sino que se utilizan y suma recursos nuevos.
 ## Estructura de Clases
 ## Ejemplo de Código

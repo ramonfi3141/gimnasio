@@ -5,5 +5,7 @@ El gimnasio tenia multiples problemas con el control de sus datos ya que estos s
 ## Motivacion
 Para evitar que los datos queden sin un soporte de organizacion, se penso en un sistema que brinda la posibilidad de almacenarlos siguiendo principios solid como es el de responsabilidad unica que genera que las clases se encargue de una sola responsabilidad.
 ## Estructura de Clases
+* [Responsabilidad unica](socio1.pdf)
 
 ## Ejemplo de Código
+ * [Codigo java](socio.java)
